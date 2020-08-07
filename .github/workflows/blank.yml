@@ -7,23 +7,24 @@ on:
   push:
     branches: [ master ]
 jobs:
-Build_and_Deploy:
+  Build_and_Deploy:
     runs-on: ubuntu-18.04
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
-
-    # Sets up Hugo
+    # This action downloads the latest hugo
     - name: Setup Hugo
-    uses: peaceiris/actions-hugo@v2
-    with:
-        hugo-version: '0.63.2'
-# Builds chrisjburns.com repo
-- name: Build
-  run: hugo --minify
-# Deploys built website to S3
-- name: Deploy to S3
-  run: hugo deploy --force --maxDeletes -1 --invalidateCDN
-  env:
-    AWS_ACCESS_KEY_ID: AKIAXRTJFZ7HGJSGSYP5
-    AWS_SECRET_ACCESS_KEY: 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
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: 'latest'
+    # Builds chrisjburns.com repo 
+    - name: Build
+      run: hugo --minify
+    # Deploys built website to S3 
+    - name: Deploy to S3
+      run: hugo deploy --force --maxDeletes -1 --invalidateCDN
+      env:
+        AWS_ACCESS_KEY_ID: AKIAXRTJFZ7HGJSGSYP5
+        AWS_SECRET_ACCESS_KEY: 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
+        AWS-REGION: us-east-1
+# This action runs whenever somec hange is pushed to the master branch of this repository
