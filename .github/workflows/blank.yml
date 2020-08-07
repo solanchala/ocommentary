@@ -12,12 +12,11 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
-
-    # Sets up Hugo
+    # This action downloads the latest hugo
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
-        hugo-version: '0.63.2'
+        hugo-version: 'latest'
     # Builds chrisjburns.com repo 
     - name: Build
       run: hugo --minify
