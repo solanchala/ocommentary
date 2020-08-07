@@ -1,4 +1,4 @@
-name = "Liva Hugo"
+name = "Oromo Commentary"
 license = "MIT"
 licenselink = "https://github.com/themefisher/liva-hugo/blob/master/LICENSE"
 description = "Hugo port of the Themefisher’s Liva Template"
@@ -9,4 +9,4 @@ min_version = "0.58.0"
 
 [author]
   name = "Themefisher"
-  homepage = "https://themefisher.com/"
+  homepage = "https://ocommentary.com/"
