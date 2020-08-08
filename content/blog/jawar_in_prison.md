@@ -1,6 +1,26 @@
 ---
-title: "Today's first post"
-date: 2020-08-07T02:20:35-04:00
+author: "Solan Bongase"
+title: "Jawar is in Prison"
+date: 2020-08-07T01:54:35-04:00
 draft: false
+
+# post thumb
+image: "images/featured-post/Jawar.png"
+
+# meta description
+description: "this is meta description"
+
+# taxonomies
+categories: 
+  - "Politics"
+tags:
+  - "New"
+  - "Politics"
+
+# post type
+#type: "featured"
+type: "post"
 ---
-Jawar is still in prison. Qabsoon itti fufaa.
+Qabsoon itti fufaa!
+
+![image](../../images/Jawar.png)

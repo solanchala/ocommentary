@@ -1,7 +1,24 @@
 ---
-title: "My Third Post"
-date: 2020-07-26T01:54:35-04:00
+title: "Do Your Part"
+date: 2020-08-07T01:54:35-04:00
 draft: false
+
+# post thumb
+image: "images/featured-post/haacaaluu.png"
+
+# meta description
+description: "this is meta description"
+
+# taxonomies
+categories: 
+  - "Politics"
+tags:
+  - "New"
+  - "Politics"
+
+# post type
+#type: "featured"
+type: "post"
 ---
 Yesterday, I asked Oromos to ask yourselves to use your skills and build it up enough to convince others to join your project.
 {{< youtube Wv3he6CGF3E >}}
