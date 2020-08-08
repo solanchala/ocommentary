@@ -1,6 +1,6 @@
 ---
 Author: Tsegaye Ararssa
-title: "Free All Political Prisoners"
+title: "Innovation Out of The Ashes"
 date: 2020-08-08T01:54:35-04:00
 draft: false
 
