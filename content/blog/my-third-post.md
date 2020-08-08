@@ -32,4 +32,4 @@ Keessumattuu Shamarran, 👉Aabbaan warraa irraa ajjeefamaa, hidhamaa, qe'eedhaa
 Kanaafuu👉Qaamni na quuqa, na ilaallata Salphachuun Shamarran Oromoo jedhu haala kamiin waanti armaan olitti eerame akka milkaa'uu danda'u irratti nuuf hojjechuu qaba👌
 Galatoomaa!!
 Heeraan
-![image](../../images/FreeChaltu.png)
+![image](../../images/post/FreeChaltu.png)
