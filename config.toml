@@ -56,9 +56,14 @@ home = ["HTML", "RSS", "JSON"]
   weight = 2
   
   [[menu.main]]
+  name = "Podcast"
+  URL = "podcast"
+  weight = 3
+
+  [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 3
+  weight = 4
 
   # footer menu
   [[menu.footer]]
@@ -72,10 +77,14 @@ home = ["HTML", "RSS", "JSON"]
   weight = 2
   
   [[menu.footer]]
-  name = "Contact"
-  URL = "contact"
+  name = "Podcast"
+  URL = "podcast"
   weight = 3
 
+  [[menu.footer]]
+  name = "Contact"
+  URL = "contact"
+  weight = 4
 
 #################### default parameters ################################
 [params]
@@ -85,7 +94,7 @@ home = "Home"
 description = "This is meta description"
 #author = "Themefisher"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "UA-174948137-1"
 # Contact Information
 mobile = "916-234-555"
 email = "webmaster@ocommentary.com"
