@@ -13,4 +13,4 @@ description: "this is meta description"
 type : "about"
 ---
 
-This site is meant for use for commentary on Oromo related topics.
+This site is meant for use for commentary on Oromo related topics. Please follow us for the latest news and comments.
