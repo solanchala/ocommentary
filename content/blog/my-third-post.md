@@ -23,6 +23,7 @@ type: "featured"
 #type: "post"
 ---
 Shamarraniif!
+
 Shamarran qofti Oromiyaa keessatti, mirga shamarraniif daa'immanii mootummaa #Bilxiginnaadhaan sarbamaa jiru hiriira nagaa guutummaa biyyattii keessatti bahuudhaan dura dhaabbachuu qabna!
 Waanti hubatamuu qabu, har'a mana keenya jiraannus booru mana  hunda keenyaa rurukutee dhufuun isaa waan hin oolle ta'uu isaati!
 Oromoon shamarraniif kabaja addaa qaba,
