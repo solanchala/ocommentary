@@ -91,7 +91,7 @@ home = ["HTML", "RSS", "JSON"]
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
+description = "Online magazine on Oromo affairs"
 #author = "Themefisher"
 # Google Analitycs
 googleAnalitycsID = "UA-174948137-1"
