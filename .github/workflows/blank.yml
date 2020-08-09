@@ -24,7 +24,7 @@ jobs:
     - name: Deploy to S3
       run: hugo deploy --force --maxDeletes -1 --invalidateCDN
       env:
-        AWS_ACCESS_KEY_ID: AKIAXRTJFZ7HCU5TMCO2 
-        AWS_SECRET_ACCESS_KEY: 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
+        AWS_ACCESS_KEY_ID: AKIAXRTJFZ7HCKWGKH5S
+        AWS_SECRET_ACCESS_KEY: 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
         AWS-REGION: us-east-1
 # This action runs whenever somec hange is pushed to the master branch of this repository
