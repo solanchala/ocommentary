@@ -121,12 +121,12 @@ copyright = "| copyright &copy; 2020 [Themefisher](https://themefisher.com) All 
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "https://www.facebook.com/solan.bongase"
+link = "https://www.facebook.com/Tsegaye-R-Ararssa-106389074489956"
 
-[[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "https://twitter.com/solanchala"
+#[[params.social]]
+#title = "twitter"
+#icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+#link = "https://twitter.com/solanchala"
 
 #[[params.social]]
 #title = "instagram"
