@@ -1,4 +1,4 @@
---
+---
 Author: Tsegaye Ararssa
 title: "Shimalis Diina"
 date: 2020-08-09T01:54:35-04:00
@@ -23,6 +23,7 @@ type: "featured"
 #type: "post"
 ---
 
+<hr>
 
 Bilxiginnaan kasaara siyaasaa keesa gallaan haasa'a Shimalis Abdiisaa bubbule tokko gadi baastee, "nuyi fedhii uummataa hin gannee; dhimmoota Oromoon qabsaa'uf irratti hojjataat jirraa; mirga abbaa biyyummaa mirkaneessuf Oromoon Bilxiginnaa keessatti akka aangeeffamu hojimaatan itti bobbaaneerraa; gaaffii Afaan Oromoo deebisneerraa, afaan federaalaa godhuu dhaafis wixinee labsii kaabinee federalaatti dhiyeessuf qophoofneerraa; Dhimma Finfinnees toftaa adda ta'een irratti hojjachaa jirraa; kanas kan goonuu: 1ffaa, Oromoo baay'innaan itti galchuu dhan; 2ffaa, teessoo motummaa federaalaa bakka sadiitti qooduu dhaan; 3ffaa, carraa diinagdee bakka biraatti uumuu dhaan; magaalattii guutumaa guututti irrelevant gochuu dhaan ofitti deebisnaa; nuyi warri Bilxiginnaa ijaarsa motummaa (state building) irra jirra; ijaarsa biyyaa (nation-building) irra jirraa; afaan hojii federaalaa afaan shan--Afaan Afar, Amaaraa, Oromoo, Somali, fi Tigray--goonaa;" maal maal jedha.
 Kuni hundi utuu dhugaa ta'eeyyuu, motummaan Abiy fedhii ummataatin ala hojiitti hiikuudhaan raawwachisuu hin danda'u. Kana hunda seera fi heera Oromiyaa fi kan biyyattii utuu hin kabajin hojiitti jijjiiruu hin danda'an. 
