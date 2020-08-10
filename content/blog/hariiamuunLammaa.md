@@ -1,6 +1,6 @@
 ---
 Author: Henok Gabisa
-title: "Hariiamuun Lammaa"
+title: "Harii'amuun Lammaa"
 date: 2020-08-09T01:54:35-04:00
 draft: false
 
@@ -8,7 +8,7 @@ draft: false
 image: "images/featured-post/HenokGabisa.png"
 
 # meta description
-description: "Hariiamuun Lammaa"
+description: "Harii'amuun Lammaa"
 
 # taxonomies
 categories: 

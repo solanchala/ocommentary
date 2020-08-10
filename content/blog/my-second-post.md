@@ -7,7 +7,7 @@ draft: false
 image: "images/featured-post/haacaaluu.png"
 
 # meta description
-description: "this is meta description"
+description: "ABOn Eenyummaan kenya"
 
 # taxonomies
 categories: 

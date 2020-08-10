@@ -8,7 +8,7 @@ draft: false
 image: "images/featured-post/TsegayeArarssa.jpg"
 
 # meta description
-description: "this is meta description"
+description: "Innovation Out of The Ashes"
 
 # taxonomies
 categories: 

@@ -8,7 +8,7 @@ draft: false
 image: "images/featured-post/Tsegish.jpg"
 
 # meta description
-description: "this is meta description"
+description: "Shimalis Diina"
 
 # taxonomies
 categories: 

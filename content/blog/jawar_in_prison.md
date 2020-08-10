@@ -8,7 +8,7 @@ draft: false
 image: "images/featured-post/Jawar.png"
 
 # meta description
-description: "this is meta description"
+description: "Uggurri Qeerroo dhaabbateera???"
 
 # taxonomies
 categories: 

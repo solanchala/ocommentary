@@ -8,7 +8,7 @@ draft: false
 image: "images/featured-post/EtanaHabte.png"
 
 # meta description
-description: "this is meta description"
+description: "Heeraan Jawaar Mohammed"
 
 # taxonomies
 categories: 

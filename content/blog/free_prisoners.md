@@ -8,7 +8,7 @@ draft: false
 image: "images/featured-post/TsegayeArarssa.jpg"
 
 # meta description
-description: "this is meta description"
+description: "Free All Political Prisoners"
 
 # taxonomies
 categories: 
