@@ -8,7 +8,7 @@ draft: false
 image: "images/featured-post/EzekielGebissa.png"
 
 # meta description
-description: "Innovation Out of The Ashes"
+description: "Distress Call From PP Oromiya"
 
 # taxonomies
 categories: 
