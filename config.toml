@@ -11,6 +11,8 @@ paginate = 6
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 
+enableInlineShortcodes = true
+
 ############################# Plugins ##############################
 [params.plugins]
 

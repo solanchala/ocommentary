@@ -23,10 +23,20 @@ tags:
 # post type
 type: "featured"
 #type: "post"
+
 ---
+
 Haadha Siinqee Podcast would like to present the interview with Dr. Kjetil Tronvoll on Ethiopia, Eritrea, Isaias Afwerki and Abiy and in General East Africa politics.
 PLEASE NOTE: this podcast is in English and you may listen to it by clicking on the link below.
+{{< todo >}}{{< figure src="../../images/podcast/HS-with-Tronvoll-1.png" 
+     title="Steve Francia" >}}{{< /todo>}}
+ 
+{{< link href="https://www.facebook.com/telile.bayissa/videos/10158279041707460" >}}
+  {{< img src="../../images/podcast/HS-with-Tronvoll-1.png" alt="Screenshot of the Onion homepage" >}}
+{{< /link >}}
 Telile Bongase (Host)
 
+<hr>
 
-[Haadha Sinqee With Dr. Tronvoll](https://www.facebook.com/telile.bayissa/videos/10158279041707460 "Haadha Sinqee With Dr. Tronvoll")
+
+{{< todo >}}[Haadha Sinqee With Dr. Tronvoll](https://www.facebook.com/telile.bayissa/videos/10158279041707460 "Haadha Sinqee With Dr. Tronvoll"){{< /todo>}}
