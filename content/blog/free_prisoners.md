@@ -14,7 +14,6 @@ description: "Free All Political Prisoners"
 categories: 
   - "Politics"
 tags:
-  - "New"
   - "Politics"
   - "Tsegaye A"
 

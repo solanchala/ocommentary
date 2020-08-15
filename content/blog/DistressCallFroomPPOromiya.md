@@ -14,13 +14,12 @@ description: "Distress Call From PP Oromiya"
 categories: 
   - "Politics"
 tags:
-  - "New"
   - "Politics"
   - "Ezekiel G"
 
 # post type
-type: "featured"
-#type: "post"
+#type: "featured"
+type: "post"
 ---
 
 

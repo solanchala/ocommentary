@@ -14,7 +14,6 @@ description: "Uggurri Qeerroo dhaabbateera???"
 categories: 
   - "Politics"
 tags:
-  - "New"
   - "Politics"
 
 # post type

@@ -14,7 +14,6 @@ description: "Heeraan Jawaar Mohammed"
 categories: 
   - "Politics"
 tags:
-  - "New"
   - "Politics"
   - "Etana H"
 

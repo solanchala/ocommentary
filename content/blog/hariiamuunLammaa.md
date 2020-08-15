@@ -14,13 +14,12 @@ description: "Harii'amuun Lammaa"
 categories: 
   - "Politics"
 tags:
-  - "New"
   - "Politics"
   - "Henok G"
 
 # post type
-type: "featured"
-#type: "post"
+#type: "featured"
+type: "post"
 ---
 
 
