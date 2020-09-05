@@ -18,8 +18,8 @@ tags:
   - "Etana H"
 
 # post type
-type: "featured"
-#type: "post"
+#type: "featured"
+type: "post"
 ---
 Shamarraniif!
 

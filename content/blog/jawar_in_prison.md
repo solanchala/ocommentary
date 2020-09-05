@@ -20,6 +20,7 @@ tags:
 #type: "featured"
 type: "post"
 ---
+
 "Uggurri Qeerroo dhaabbateera" jedhamee oduun mar-sariitiin deemaa jiru kun soba.
 Uggurri geejjibaa qeerroon geggeeffamaa jiru akkuma itti fufetti jira.
 Waan jijjiirames hinjiru!!! Mootummaan miidhaa isa irra ga'een rifatee waan

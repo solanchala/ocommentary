@@ -18,7 +18,7 @@ tags:
   - "Tsegaye A"
 
 # post type
-type: "featured"
+#type: "featured"
 #type: "post"
 ---
 
