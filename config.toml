@@ -42,6 +42,7 @@ enableInlineShortcodes = true
   [[params.plugins.js]]
   URL = "plugins/search/search.js"
 
+
   
 ############################## navigation ###############################
 [menu]
