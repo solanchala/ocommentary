@@ -2,6 +2,7 @@ baseurl = "https://ocommentary.com/"  # Include trailing slash
 languageCode = "en-us"
 title = "Oromo Commentary"
 theme = "liva-hugo"
+
 #theme = "newsroom"
 #theme = "hugo-theme-cactus-plus"
 summaryLength = "10"
