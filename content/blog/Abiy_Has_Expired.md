@@ -1,7 +1,7 @@
 ---
 Author: Tsegaye Ararssa
 title: "Abiy Has Expired"
-date: 2020-1017T01:54:35-04:00
+date: 2020-10-17T01:54:35-04:00
 draft: false
 
 # post thumb
