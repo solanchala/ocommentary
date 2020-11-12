@@ -1,6 +1,6 @@
 ---
 Author: Tsegaye Ararssa 
-title: "Multinational Federalism in Ethiopia:  Issues, Challenges, and Prospects""
+title: "Multinational Federalism in Ethiopia:  Issues, Challenges, and Prospects"
 date: 2020-09-20T01:54:35-04:00
 draft: false
 
