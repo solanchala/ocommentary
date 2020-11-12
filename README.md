@@ -1,2 +1,2 @@
 # ocommentary site
-hugo site
+hugo site ocommentary
