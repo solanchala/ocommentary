@@ -15,13 +15,12 @@ description: "Qophii Oromoo"
 categories: 
   - "Politics"
 tags:
-  - "New"
   - "Politics"
   - "Tsegaye A"
 
 # post type
-type: "featured"
-#type: "post"
+#type: "featured"
+type: "post"
 ---
 
 Balaan Oromoo mudate, balaan bara baraaf qa'ee ofiirratti ajjeefamuu kun, yoo kan hin dhaabbatu ta'e wanti Oromoon akka sabaatitti godhuu qabu hidhachuu dha.
