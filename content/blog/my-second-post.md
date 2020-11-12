@@ -22,7 +22,9 @@ type: "post"
 ---
 
 Wal gahiin Adoolessa 26/2020 guyyaa borii Waajjira ABO Gullalleetti gaggeeffamuuf jira jedhame kijibadha.
+
 (SQ-ADOOLESSA 25/2020]
+
 Guyyaa borii jechuun Adoolessa 26/2020 Wal gahiin waajjira ABO Gullalleetti gaggeeffamuuf jira jedhamu soba tahuu Sagaleen Qeerroo Bilisummaa Oromoo mirkaneeffateera.
 Akka odeessi maddeen qabatamaa irraa nu qaqqabaa jirutti Wal gahiin gaggeeffamuuf jira jedhamee odeessamaa jiru Hoggantootni dhaabaa Kan quba hin qabne tahuu isaa fi Hoggantootni Olaanoo dhaabichaa hidhaa yeroo jiranitti Kan mootummaan ololaaf namoota ittiin to'achuuf Wal gahiin ABO Gullalleetti jira jechuun odeessisaa jiru waan taheef miseensotni ABO kamiyyuus tahe qondaaltotni dhaabaa Kan quba hin qabne tahuu Sagaleen Qeerroo Bilisummaa Oromoo mirkaneeffateera.
 Mootummaan miidiyaan affeerameera ABOn kora guddaa boru waajjira Gullalleetti qaba jechuun Kan adeemaa jiru kijiba guddaa waan taheef namoonni akka walitti qabamaniif tahe jedhamee erga walitti qabamanii immoo labsii yeroo muddamaa cabsitanii Wal gahii teessu jedhee qabee hidhuu fi namoota ciccimoo tahan ittiin to'achuuf akka tahe maddeen keenya qabatamoon nuuf eeraniiru.
