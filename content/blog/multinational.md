@@ -1,11 +1,11 @@
 ---
 Author: Tsegaye Ararssa 
-title: "A Multinational Federalism in Ethiopia"
+title: "Multinational Federalism in Ethiopia:  Issues, Challenges, and Prospects""
 date: 2020-09-20T01:54:35-04:00
 draft: false
 
 # post thumb
-image: "images/featured-post/Tsegish.jpg"
+image: "images/featured-post/TsegayeArarssa.jpg"
 
 # meta description
 description: "Multinational Federalism in Ethiopia:  Issues, Challenges, and Prospects"
