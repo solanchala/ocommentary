@@ -50,6 +50,10 @@ Discussion with Prof. Alex de Waal, On current Ethiopia and regional politics as
 
 https://www.facebook.com/1199689540205069/videos/456704648804436
 
+**Date: 2021-01-24**
+Discussion with Martin Plaut, On current Ethiopia and regional politics as it related to war on Tigray
+
+https://www.facebook.com/1199689540205069/videos/739024156997981
 
 **Date: 2020-08-20**
 Discussion with Dr. Kjetil Tronvoll on Ethiopia, Eritrea, Isaias Afwerki and Abiy and in General East Africa politics.
