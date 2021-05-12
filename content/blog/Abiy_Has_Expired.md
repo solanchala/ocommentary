@@ -14,13 +14,12 @@ description: "Abiy Has Expired"
 categories: 
   - "Politics"
 tags:
-  - "New"
   - "Politics"
   - "Tsegaye A"
 
 # post type
-type: "featured"
-#type: "post"
+#type: "featured"
+type: "post"
 ---
 
 Abiy Has Expired

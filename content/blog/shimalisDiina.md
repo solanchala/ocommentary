@@ -14,7 +14,6 @@ description: "Shimalis Diina"
 categories: 
   - "Politics"
 tags:
-  - "New"
   - "Politics"
   - "Tsegaye A"
 

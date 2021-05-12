@@ -13,7 +13,6 @@ description: "ABOn Eenyummaan kenya"
 categories: 
   - "Politics"
 tags:
-  - "New"
   - "Politics"
 
 # post type
