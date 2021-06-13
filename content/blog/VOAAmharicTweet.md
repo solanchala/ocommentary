@@ -36,30 +36,30 @@ Please join the tweeter campaign by using any of the share tweet links below to 
 {{< quote hashtags="StopBiasAtVOAAmharic, OromoLivesMatter, TigrayLivesMatter" >}}VOA Amharic why did it take you more than 24 hours to report about Oromo rally on June 10 infront of VOA HQ? @VOAAmharic @VOADirector @insideVOA @VOAAfaanOromoo
 {{< /quote >}}
 
-{{< quote hashtags="StopBiasAtVOAAmharic, OromoLivesMatter, TigrayLivesMatter" >}}VOA Amharic what is the need of interviewing amb. Fistum about the accusation against bias report toward VOA Amharic? @VOAAmharic @VOADirector @insideVOA @VOAStraightTalk
+{{< quote hashtags="StopBiasAtVOAAmharic, OromoLivesMatter, TigrayLivesMatter" >}}VOA Amharic what is the need of interviewing amb. Fistum about the accusation against bias report toward VOA Amharic? @VOAAmharic @VOA_News @insideVOA @VOAStraightTalk
 {{< /quote >}}
 
 {{< quote hashtags="JusticeforAmanuelWondimu, AbiyAhmedisaterrorist" >}}VOA Amharic calls only one group of people Ethiopians by hiding their identity but calls the rest by their ethnic groups. Stop bias reporting and racism. @VOAAmharic @VOADirector @insideVOA @VOAAfaanOromoo
 {{< /quote >}}
 
-{{< quote hashtags="StopBiasAtVOAAmharic, OromoLivesMatter, TigrayLivesMatter" >}}VOA amahric branch is harbouring a genocide on Tigray and Oromia by using American tax payers money. @VOAAmharic @VOADirector @insideVOA @VOAStraightTalk
+{{< quote hashtags="StopBiasAtVOAAmharic, OromoLivesMatter, TigrayLivesMatter" >}}VOA amahric branch is harbouring a genocide on Tigray and Oromia by using American tax payers money. @VOAAmharic @VOA_News @insideVOA @VOAStraightTalk
 {{< /quote >}}
 
 {{< quote hashtags="StopBiasAtVOAAmharic, OromoLivesMatter, TigrayLivesMatter" >}}VOA Amharic interview the Oromo rally organizer Henok Gebissa and Seenaa . Stop biased reporting. @VOAAmharic @VOADirector @insideVOA @VOAAfaanOromoo
 {{< /quote >}}
 
-{{< quote hashtags="StopBiasAtVOAAmharic, OromoLivesMatter, TigrayLivesMatter" >}}VOA Amahric be the voice of the people of Ethiopia not Abiy’s voice @VOAAmharic @VOADirector @insideVOA @VOAStraightTalk
+{{< quote hashtags="StopBiasAtVOAAmharic, OromoLivesMatter, TigrayLivesMatter" >}}VOA Amahric be the voice of the people of Ethiopia not Abiy’s voice @VOAAmharic @VOA_News @insideVOA @VOAStraightTalk
 {{< /quote >}}
 
 {{< quote hashtags="StopBiasAtVOAAmharic, OromoLivesMatter, TigrayLivesMatter" >}}There are credible reports of VOA Amharic discriminating against Oromo and Tigray ethnicity in the hiring process. There are moments where job applicants were asked to state their political position on Ethiopia as some form of pre-condition to get a job. @VOAAmharic @VOADirector @insideVOA @VOAAfaanOromoo
 {{< /quote >}}
 
-{{< quote hashtags="StopBiasAtVOAAmharic, OromoLivesMatter, TigrayLivesMatter" >}}What Ethiopian government is trying to do through the instrumentality of VOA is better understood along the the 2016 Russian attempt to violate American presidential election. Ethiopia shouldn’t be allowed! @VOAAmharic @VOADirector @insideVOA @VOAStraightTalk
+{{< quote hashtags="StopBiasAtVOAAmharic, OromoLivesMatter, TigrayLivesMatter" >}}What Ethiopian government is trying to do through the instrumentality of VOA is better understood along the the 2016 Russian attempt to violate American presidential election. Ethiopia shouldn’t be allowed! @VOAAmharic @VOA_News @insideVOA @VOAStraightTalk
 {{< /quote >}}
 
 {{< quote hashtags="StopBiasAtVOAAmharic, OromoLivesMatter, TigrayLivesMatter" >}}VOA Amharic uses American tax payers money in order to allow Ethiopian government’s long arm into how politics is shaped among Ethiopian diaspora. This will remain challenging to the sovereignty of the US in a digital era @VOAAmharic @VOADirector @insideVOA @VOAAfaanOromoo
 {{< /quote >}}
 
-{{< quote hashtags="StopBiasAtVOAAmharic, OromoLivesMatter, TigrayLivesMatter" >}}VOA Amharic operates under the influence of Ethiopian government. Many of their reports on Oromia and Tigray reflects Ethiopian government position without corroboration from independent sources. This defeats ethics of journalism @VOAAmharic @VOADirector @insideVOA @VOAStraightTalk 
+{{< quote hashtags="StopBiasAtVOAAmharic, OromoLivesMatter, TigrayLivesMatter" >}}VOA Amharic operates under the influence of Ethiopian government. Many of their reports on Oromia and Tigray reflects Ethiopian government position without corroboration from independent sources. This defeats ethics of journalism @VOAAmharic @VOA_News @insideVOA @VOAStraightTalk 
 {{< /quote >}}
 
