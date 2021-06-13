@@ -1,7 +1,7 @@
 ---
 Author: Telile Bayissa, Henok Gabisa, Tsegaye Ararssa
 title: "Biases at VOA Amharic"
-date: 2021-06-13T00:56:57-04:00
+date: 2021-06-13T00:56:57-04:10
 draft: false
 
 # post thumb
@@ -51,15 +51,14 @@ Please join the tweeter campaign by using any of the share tweet links below to 
 {{< quote hashtags="StopBiasAtVOAAmharic, OromoLivesMatter, TigrayLivesMatter" >}}VOA Amahric be the voice of the people of Ethiopia not Abiy’s voice @VOAAmharic @VOA_News @insideVOA @VOAStraightTalk
 {{< /quote >}}
 
-{{< quote >}}There are credible reports of VOA Amharic discriminating against Oromo and Tigray ethnicity in the hiring process. There are moments where job applicants were asked to state their political position on Ethiopia as some form of pre-condition to get a job. @VOAAmharic @VOADirector
+{{< quote >}}There are credible reports of VOA Amharic discriminating against Oromo and Tigray ethnicity in the hiring process. There are moments where job applicants were asked to state their political position on Ethiopia as some form of pre-condition to get a job.@VOAAmharic @VOADirector
 {{< /quote >}}
 
 {{< quote hashtags="StopBiasAtVOAAmharic" >}}What Ethiopian government is trying to do through the instrumentality of VOA is better understood along the the 2016 Russian attempt to violate American presidential election. Ethiopia shouldn’t be allowed! @VOAAmharic @VOA_News @insideVOA @VOAStraightTalk
 {{< /quote >}}
 
-{{< quote hashtags="StopBiasAtVOAAmharic" >}}VOA Amharic uses American tax payers money in order to allow Ethiopian government’s long arm into how politics is shaped among Ethiopian diaspora. This will remain challenging to the sovereignty of the US in a digital era @VOAAmharic @VOADirector @insideVOA
+{{< quote hashtags="StopBiasAtVOAAmharic" >}}VOA Amharic uses American tax payers money in order to allow Ethiopian govt’s long arm into how politics is shaped among Ethiopian diaspora. This will remain challenging to the sovereignty of the US in a digital era @VOAAmharic @VOADirector @insideVOA
 {{< /quote >}}
 
 {{< quote hashtags="StopBiasAtVOAAmharic" >}}VOA Amharic operates under the influence of Ethiopian government. Many of their reports on Oromia and Tigray reflects Ethiopian government position without corroboration from independent sources. This defeats ethics of journalism @VOAAmharic @insideVOA
 {{< /quote >}}
-
